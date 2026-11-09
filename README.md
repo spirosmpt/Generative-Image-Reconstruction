@@ -15,7 +15,7 @@ MATLAB experiments using a fixed two-layer generative neural network for handwri
 
 ## Repository layout
 
-- `report/course-report-redacted.pdf` — student-ID-redacted copy of the submitted report with methodology, findings, plots and code appendix
+- Redacted course report (PDF) — included in the separate portfolio ZIP archive supplied in the accompanying ChatGPT conversation; not uploaded to this GitHub repository
 - Source files:
   - `code/helpers/diff_Relu.m`
   - `code/helpers/diff_sigmoid.m`
@@ -43,4 +43,9 @@ Uses the generative network as a constrained image prior, optimizing a latent co
 
 ## Credits
 
-Coursework authored by Spiros Bantis, University of Patras. The report remains the reference for experimental setup and observed results. Refer to the assignment for technical details.
+Coursework authored by Spiros Bantis, University of Patras. The original course report (available in the separately provided project archive) remains the reference for the experimental setup and observed results. Refer to the assignment for technical details.
+
+
+## Report availability
+
+The original coursework report is provided separately as a privacy-redacted PDF in the downloadable project ZIP prepared for this portfolio. Its figures and results have **not** been uploaded to this repository. The source code is available above. The original source was tested by the author, but code transcribed from PDF into standalone MATLAB files has not been independently re-executed in this repository.
