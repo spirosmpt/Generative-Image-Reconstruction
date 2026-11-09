@@ -21,7 +21,7 @@ The original MATLAB code was tested for the assignment. The prepared source file
 
 The original report documents the setup, visual results, and source code appendix. MATLAB scripts were extracted separately from that appendix; PDF line wrapping needs attention if reconstructing exact original formatting.
 
-**Current repository status:** Documentation initialized. The source code and redacted report are being transferred from the prepared project archive.
+**Repository scope:** This GitHub repository currently contains the documentation and selected source files. The complete prepared coursework archive (including the redacted report) is available separately; it has not all been committed here.
 
 ## Author
 Spiros Bantis · Electrical & Computer Engineering · University of Patras
